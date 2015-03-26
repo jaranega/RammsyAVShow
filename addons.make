@@ -1,0 +1,9 @@
+ofx3DModelLoader
+ofxAssimpModelLoader
+ofxGui
+ofxOsc
+ofxXmlSettings
+ofxGpuParticles
+ofxMidi
+ofxPostProcessing
+ofxSyphon
